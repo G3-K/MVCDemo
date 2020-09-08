@@ -13,5 +13,9 @@ namespace MVCForGIT_8_9.Controllers
         {
             return View();
         }
+        public ActionResult Home()
+        {
+            return View();
+        }
     }
 }
